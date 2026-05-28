@@ -43,10 +43,14 @@ Currently exploring open source contributions in the React / Supabase ecosystem.
 
 <div align="center">
 
-<a href="https://github.com/victorafael26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorafael26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorafael26&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" />
-</a>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorafael26&theme=tokyonight)](https://github.com/victorafael26)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorafael26&theme=tokyonight)](https://github.com/victorafael26)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorafael26&theme=tokyonight)](https://github.com/victorafael26)
 
 </div>
 
