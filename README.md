@@ -14,7 +14,7 @@
 
 ## About
 
-Solo developer building **[Viaje Fácil](https://viajefacil.app)** — a full-stack SaaS for charter bus companies in Brazil.
+Solo developer building **[Viaje Fácil](https://viajefacil.app)** — a full-stack SaaS for charter bus & tourism companies in Brazil.
 
 Multi-tenant architecture · LGPD compliance · ICP-Brasil digital signatures · Asaas payment integration · ANTT regulatory compliance
 
