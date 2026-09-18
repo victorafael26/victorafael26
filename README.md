@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=180&section=header&text=Victor%20Rafael&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%2C%20Web%20%26%20Desktop&descSize=18&descAlignY=55&descColor=00FF41"/>
+<h1 align="center" style="font-family: monospace; color: #00FF41;">Victor Rafael</h1>
+<p align="center"><i>Software Engineer | Mobile, Web & Desktop</i></p>
 
 <p align="center">
   <a href="mailto:vrafael2601@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117" /></a>
@@ -6,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=55&lines=Mobile-first+apps+%C2%B7+Web+platforms+%C2%B7+Desktop+tools;Custom+software%2C+built+on+demand" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Mobile-first+apps+%C2%B7+Web+platforms+%C2%B7+Desktop+tools;Custom+software%2C+built+on+demand" alt="Typing SVG" />
 </p>
 
 ---
@@ -54,18 +55,14 @@ Production-tested multi-tenant Row-Level Security pattern for Supabase / Postgre
 ---
 
 <p align="center">
-  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorafael26&theme=github_dark" /></a>
+  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorafael26&theme=gotham" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorafael26&theme=github_dark" /></a>
-  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorafael26&theme=github_dark" /></a>
+  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorafael26&theme=gotham" /></a>
+  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorafael26&theme=gotham" /></a>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=victorafael26&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="170px" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00FF41/victorafael26" width="95%" />
 </p>
