@@ -1,79 +1,68 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=180&section=header&text=Victor%20Rafael&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%2C%20Web%20%26%20Desktop&descSize=18&descAlignY=55&descColor=00FF41"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Victor%20Rafael&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Indie%20Developer%20%7C%20SaaS%20Builder%20%7C%20Brazil&descSize=16&descAlignY=55" width="100%" />
+<p align="center">
+  <a href="mailto:vrafael2601@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117" /></a>
+  <a href="https://github.com/victorafael26"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" /></a>
+</p>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+Viaje+F%C3%A1cil+%F0%9F%9A%8C;React+%C2%B7+Supabase+%C2%B7+TypeScript;Solving+real+problems+in+Brazil)](https://github.com/victorafael26)
-
-</div>
-
----
-
-## About
-
-Solo developer building **[Viaje Fácil](https://viajefacil.app)** — a full-stack SaaS for charter bus & tourism companies in Brazil.
-
-Multi-tenant architecture · LGPD compliance · ICP-Brasil digital signatures · Asaas payment integration · ANTT regulatory compliance
-
-Currently exploring open source contributions in the React / Supabase ecosystem.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=55&lines=Mobile-first+apps+%C2%B7+Web+platforms+%C2%B7+Desktop+tools;Custom+software%2C+built+on+demand" alt="Typing SVG" />
+</p>
 
 ---
 
-## Stack
+### About me
 
-<div align="center">
+Full-stack developer building custom software end to end, from mobile-first apps to web platforms and desktop tools. I work on demand across different domains, including projects like **Viaje Fácil**, a SaaS for the charter bus and tourism industry in Brazil currently in production.
 
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
+Across these projects I keep the same practices: multi-tenant data isolation, offline-friendly PWAs, and pragmatic architecture over premature abstraction. I pick the stack that fits the problem, not the other way around. Open to freelance and contract work across mobile, web and desktop.
 
 ---
 
-## GitHub Stats
+### Specialties
 
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorafael26&theme=tokyonight)](https://github.com/victorafael26)
-
-</div>
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorafael26&theme=tokyonight)](https://github.com/victorafael26)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorafael26&theme=tokyonight)](https://github.com/victorafael26)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=victorafael26&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1)](https://github.com/victorafael26)
-
-</div>
+```
+Mobile & PWA              React Native · Mobile-first PWA · Offline-friendly UX
+Web & Frontend             React · TypeScript · Tailwind CSS
+Backend & Database         Node.js · Supabase (Postgres) · Row-Level Security
+Data & Automation          Python
+Product                    Requirements to production · Multi-tenant SaaS
+```
 
 ---
 
-## Activity
+### 🚀 Tech Stack
 
-<div align="center">
-
-[![Victor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victorafael26&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b)](https://github.com/victorafael26)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,tailwind,supabase,postgres,html,css,git&perline=11" />
+</p>
 
 ---
 
-<div align="center">
+<details>
+<summary><b>📌 Featured project</b></summary>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+#### supabase-multitenant-rls
 
-</div>
+Production-tested multi-tenant Row-Level Security pattern for Supabase / PostgreSQL, with real isolation rules taken from a live product, not a toy example.
+
+[github.com/victorafael26/supabase-multitenant-rls](https://github.com/victorafael26/supabase-multitenant-rls)
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorafael26&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="170px" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorafael26&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorafael26&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorafael26&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=c9d1d9" width="95%"/>
+</p>
