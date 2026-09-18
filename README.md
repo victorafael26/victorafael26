@@ -40,14 +40,24 @@ Product                    Requirements to production · Multi-tenant SaaS
 
 ---
 
-<details>
-<summary><b>📌 Featured project</b></summary>
-<br/>
+### Where I go deep
 
-#### supabase-multitenant-rls
+**Data & backend**
+- APIs and data models on Supabase (PostgreSQL), designed for multi-tenant SaaS from day one
+- Row-Level Security covering both read and write paths, not just the happy path
+- Schema and query design focused on correctness under concurrent access
 
-Production-tested multi-tenant Row-Level Security pattern for Supabase / PostgreSQL, with real isolation rules taken from a live product, not a toy example.
+**Mobile & PWA**
+- Mobile-first PWAs built for real-world field use: drivers, dispatchers, non-technical users
+- Offline-friendly UX and resilient state across unreliable connections
+- Interfaces designed for speed and clarity on small screens, not desktop layouts shrunk down
 
-[github.com/victorafael26/supabase-multitenant-rls](https://github.com/victorafael26/supabase-multitenant-rls)
+**Isolation & access control**
+- Multi-tenant isolation enforced at the database level, not only in application code
+- Every write policy (insert/update/delete) reviewed on its own, since a single gap breaks tenant isolation
+- Shorter token lifetimes and tighter auth flows, learned from hardening a real production system
 
-</details>
+**Delivery**
+- Full ownership from requirements to production, across multiple independent projects
+- Comfortable moving between web, mobile and desktop depending on what the problem needs
+- Shipping **Viaje Fácil**, a live SaaS product, alongside custom client work
