@@ -54,15 +54,18 @@ Production-tested multi-tenant Row-Level Security pattern for Supabase / Postgre
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorafael26&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="170px" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorafael26&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" height="170px" />
+  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorafael26&theme=github_dark" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorafael26&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="170px" />
+  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorafael26&theme=github_dark" /></a>
+  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorafael26&theme=github_dark" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorafael26&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=c9d1d9" width="95%"/>
+  <img src="https://streak-stats.demolab.com?user=victorafael26&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FF41/victorafael26" width="95%" />
 </p>
