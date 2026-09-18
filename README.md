@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Mobile-first+apps+%C2%B7+Web+platforms+%C2%B7+Desktop+tools;Custom+software%2C+built+on+demand" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=Mobile-first+apps+%C2%B7+Web+platforms+%C2%B7+Desktop+tools;Custom+software%2C+built+on+demand" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,18 +51,3 @@ Production-tested multi-tenant Row-Level Security pattern for Supabase / Postgre
 [github.com/victorafael26/supabase-multitenant-rls](https://github.com/victorafael26/supabase-multitenant-rls)
 
 </details>
-
----
-
-<p align="center">
-  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorafael26&theme=gotham" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorafael26&theme=gotham" /></a>
-  <a href="https://github.com/victorafael26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorafael26&theme=gotham" /></a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=victorafael26&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="170px" />
-</p>
